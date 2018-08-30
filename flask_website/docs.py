@@ -11,7 +11,7 @@ _doc_body_re = re.compile(r'''(?smx)
     <div.*?class=".*?sphinxsidebar
 ''')
 
-#Comments added
+#Comments added by preeti
 class DocumentationPage(Indexable):
     search_document_kind = 'documentation'
 
